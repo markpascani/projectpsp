@@ -9,8 +9,8 @@ package com.mycompany.compilador;
  *
  * @author Mihai
  */
-public class CompilamePlease {
+public class CompilamePleaseConErrores {
     public static void main(String[] args) {
-        System.out.println("Dobby es un elfo libre.");
+        System.out.println("Este archivo tiene errores de sintaxis."
     }
 }
